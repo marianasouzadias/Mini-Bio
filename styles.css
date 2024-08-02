@@ -1,0 +1,25 @@
+.background {
+  background-color: rgb(189, 189, 228);
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+h1 {
+  color: rgb(114, 46, 114);
+}
+
+p, ol, ul {
+  font-size: 20px;
+}
+
+footer {
+  text-align: center;
+  font-size: 20px;
+  background-color: rgb(151, 52, 151);
+  height: 50px;
+  padding-top: 20px;
+}/*# sourceMappingURL=styles.css.map */
